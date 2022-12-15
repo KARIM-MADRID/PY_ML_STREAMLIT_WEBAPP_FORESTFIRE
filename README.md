@@ -1,2 +1,2 @@
-# PY_ML_STREAMLIT_WEBAPP_FORESTFIRE
-Pythom Machine Learning forest fire model webapp by streamlit 
+# Streamlit-ML-Web-App
+ A machine learning model that predicts the possibility of fire taking place , deployed on webpage using streamlit library
